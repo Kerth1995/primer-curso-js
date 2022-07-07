@@ -1,0 +1,44 @@
+{
+    "empleados":[
+        {
+            "id": 1,
+            "nombre": "Jordan",
+            "puesto": "programador"
+        },
+        {
+            "id": 2,
+            "nombre": "Jordan2",
+            "puesto": "programador2"
+        },
+        {
+            "id": 3,
+            "nombre": "Jordan3",
+            "puesto": "programador3"
+        },
+        {
+            "id": 4,
+            "nombre": "Jordan4",
+            "puesto": "programador4"
+        },
+        {
+            "id": 5,
+            "nombre": "Jordan5",
+            "puesto": "programador5"
+        },
+        {
+            "id": 6,
+            "nombre": "Jordan6",
+            "puesto": "programador6"
+        },
+        {
+            "id": 7,
+            "nombre": "Jordan7",
+            "puesto": "programador7"
+        },
+        {
+            "id": 8,
+            "nombre": "Jordan8",
+            "puesto": "programador8"
+        }
+    ]
+}
